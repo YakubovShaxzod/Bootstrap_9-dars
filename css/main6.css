@@ -1,0 +1,61 @@
+.in1{
+    border-radius: 5px !important;
+    margin-left: 100px !important;
+}
+.in2{
+    border-radius: 5px !important;
+    margin-left: 10px !important;
+}
+.tab{
+    height: 30px !important;
+    vertical-align: center !important;
+    text-align: center !important;
+    font-size: 18px !important;
+}
+.tab:hover{
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+button{
+    font-size: 20px !important;
+}
+button:hover{
+    color: white !important;
+    height: 49px!important;
+    border-radius: 0 !important;
+}
+.bag01{
+    font-size: 20px !important;
+    width: 120px !important;
+}
+.a3{
+    position: relative;
+    top: -7px;
+}
+.navbar{
+    height: 50px !important;
+}
+/*button:nth-child(4){*/
+/*    height: 20px !important;*/
+/*}*/
+.a4{
+    background-color:  #e7e7e7 !important;
+}
+.p01{
+    font-size: 20px !important;
+}
+h1{
+    font-size: 70px !important;
+
+}
+.a5{
+    border-radius: 6px !important;
+    background: linear-gradient(10deg,blue,lightblue);
+    color: white;
+}
+.a5:hover{
+    border-radius: 5px !important;
+    height: 44px !important;
+    background-color: lightblue !important;
+    background: linear-gradient(10deg,lightblue,dodgerblue);
+}

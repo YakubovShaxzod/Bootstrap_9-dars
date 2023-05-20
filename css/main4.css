@@ -1,0 +1,27 @@
+body{
+    background-color: dodgerblue;
+}
+button{
+    font-size: 21px !important;
+}
+button:hover{
+    background: dodgerblue !important;
+    color: white !important;
+    height: 50px!important;
+}
+.navbar{
+    height: 50px !important;
+    width: 1600px !important;
+    margin-left: 100px !important;
+    margin-top: 50px !important;
+}
+.dropdown-menu{
+    min-width: 0.5rem !important;
+    text-align: center !important;
+}
+.bag01{
+    font-size: 21px !important;
+}
+nav{
+    box-shadow:    0 -10px 10px  white;
+}
